@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說十八臂陀羅尼經
+#+DATE: 2015-08-30 20:30:22.929155
+#+PROPERTY: JUAN 0
